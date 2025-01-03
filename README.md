@@ -1,3 +1,3 @@
 # recipes
 
-# Simple recipe blog in html  
+ Simple recipe blog 
