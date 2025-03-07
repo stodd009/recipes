@@ -2,16 +2,12 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-head {
-    background-color: #8C5E3C;
-}
-
 body {
-    background-color: #8C5E3C;
-}
+    background-color: lavender;
+} 
 
 h1 {
-    color: #2D2A26;
+    color: black;
     font-size: 70px;
     margin-left: 5px;
     text-align: center;
@@ -20,34 +16,29 @@ h1 {
 ul, ol {
     margin: 20px;
     padding: 30px;
-    background-color: #F5DED3;
+    background-color: linen;
 }
 
 p {
     text-align: center;
 }
 
-div {
-    
-    margin: 40px 80px;
-    padding: 40px;
-    text-align: center;
-    background-color: #F5DED3;
-    
-}
-
 li {
-    background-color: #F5DED3;
-    
+    line-height: 1.75em;
 }
 
 .recipelinks {
+    margin: 40px 80px;
+    padding: 20px;
+    text-align: center;
+    list-style-type: none;
     color: #2D2A26;
     font-size: 24px;
     font-weight: 500;
-    background-color: #F5DED3 ;
+    background-color: linen
+    
 }
 
 .image {
-    padding-left: 600px;
+    text-align: center;
 }
